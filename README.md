@@ -20,10 +20,8 @@
 A demonstration app for Flutter that targets iOS, Android and shows how it can give a fantastic cross-platform experience.
 The Open Qur'an App was carefully built by [fabrikod](https://fabrikod.com) team to take into account user expectations, input methods, and idioms for each platform, guaranteeing it is comfortable on all of them. 
 
-   
-https://user-images.githubusercontent.com/24706805/225648849-cceabcea-8254-49bd-9735-0177701639a6.mp4
-
-
+  
+<video height="640" width="100%" poster="https://media.discordapp.net/attachments/1041978082690601010/1085944635651805355/1.png?width=1138&height=1138" src="https://user-images.githubusercontent.com/24706805/225648849-cceabcea-8254-49bd-9735-0177701639a6.mp4">
 ### App Downloads
 
 To try the app you can download it from the link below:
